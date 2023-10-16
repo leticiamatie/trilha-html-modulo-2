@@ -70,5 +70,10 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 3. **Menu** e **Footer** padrões em todas as páginas.
 
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
-
 Bora pra cima!
+
+DA UMA OLHADINHA NO RESULTADO:
+
+![siteClinicaVet](https://github.com/leticiamatie/html-modulo-2/assets/89943392/95c76f95-5118-447f-bcc3-4a66efc22426)
+
+
